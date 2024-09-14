@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.21.0",
     "lodash": "^4.17.21"
   }
 }
